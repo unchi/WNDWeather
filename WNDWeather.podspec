@@ -81,8 +81,6 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  s.frameworks = "AFNetworking"
-
   s.dependency "AFNetworking"
 
 end
